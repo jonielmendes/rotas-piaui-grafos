@@ -21,7 +21,7 @@ Aqui, você encontra um programa simples em C que mostra como encontrar todos os
 - Mostra todas as rotas possíveis de Corrente até Parnaíba
 - Exibe o caminho mais curto 🚀
 - Mostra o caminho mais longo 🐢
-- Usa matriz de adjacência e lógica fácil de entender (estilo iniciante, com amor 💙)
+- Usa matriz de adjacência e lógica fácil de entender 
 
 ## 🧑‍💻 Como rodar
 
